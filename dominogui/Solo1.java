@@ -19,8 +19,7 @@ public class Solo1{
     protected ArrayList<Tile> stack;
     protected ArrayList<Tile> table;
     protected Tile [][]stackTiles;
-    
-    Scanner scanner;
+
     
     public Solo1(){
         player = new Player();
